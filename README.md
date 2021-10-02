@@ -30,7 +30,7 @@
     <a href="https://github.com/public-apis/public-apis/pulls">Pull Requests</a> •
     <a href="LICENSE">License</a>
     <br /><br />
-    <sub>Currently Active Maintainers</sub>
+    <sub>Current Active Maintainers</sub>
     <br />
     <a href="https://github.com/matheusfelipeog">matheusfelipeog</a> •
     <a href="https://github.com/pawelborkar">pawelborkar</a> •
@@ -39,6 +39,7 @@
 </div>
 
 <br />
+<br/>
 
 <div align="center">
     <sub>Alternative sites for the project (unofficials)</sub>
